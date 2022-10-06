@@ -1,0 +1,13 @@
+body
+{
+    margin-top: 10px;
+    margin: 10px;
+    box-shadow: 10px, 5px, 5px blueviolet;
+}
+
+.a_tags
+{
+     margin: 15px;
+     color: cadetblue;
+     margin-bottom: 15px;
+}
